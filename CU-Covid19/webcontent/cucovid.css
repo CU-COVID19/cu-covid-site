@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+
+/* Modify the backgorund color */ 
+.btn-secondary { 
+    background-color: #13294b; 
+}
+
+.clearfix {
+  overflow: auto;
+}
